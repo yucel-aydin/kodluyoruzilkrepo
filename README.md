@@ -20,3 +20,6 @@ Linux için;
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğiniz tartışmak için bir konu açınız.
 # Licence
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+![VSCode Screenshot](https://i.ibb.co/0FkCSWB/kodluyoruzilkrepo.png)
